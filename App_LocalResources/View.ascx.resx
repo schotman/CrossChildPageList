@@ -121,10 +121,10 @@
     <value>Child Page Settings</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
-    <value>Child page list</value>
+    <value>Child Page List</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>A free module from www.DnnModules.cn</value>
+    <value>A free module from http://DnnModule.com</value>
   </data>
   <data name="OnlineHelp.Text" xml:space="preserve">
     <value>Online Help</value>

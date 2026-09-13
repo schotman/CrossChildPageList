@@ -1,15 +1,14 @@
-﻿<h3>CrossChildPageList</h3>
-<p class="Contributor">
-	DnnModules.cn <br />
-	<a href="mailto:modules@DnnModules.cn">modules@DnnModules.cn</a><br />
-	<a href=http://www.DnnModules.cn>http://www.DnnModules.cn</a><br />
-	This extension was created using <a href="https://www.christoc.com">Christoc's</a> Module Development Templates for DNN.
-</p>
+<h3>Child Page List</h3>
+
 <hr/>
 <div class="License">
-	<h3>About the CrossChildPageList</h3>
-	<p class="Owner">
-		<b>Version 03.01.00</b><br /><br />
-	</p>
-	<p>Compatibility with DNN 9.8.1</p>
+	<h4>Version 5</h4>
+	<ul>
+			<li>v5.0.1 - Repackaged as a compiled DNN module (Visual Studio 2026 / .NET Framework 4.7.2 project); the code-behind now ships in CrossChildPageList.dll instead of being compiled at runtime.</li>
+			<li>v5.3 - Restored page-permission filtering (pages the user cannot view are excluded).</li>
+			<li>v5.2 - Fixed "Include Hidden Tab" so hidden root-level pages are no longer stripped.</li>
+			<li>v5.1 - Security: validate the List Template path, honour Page.IsValid, sanitize columns and whitelist link target.</li>
+			<li>v5.0 - DNN 10.2 compatibility (replaced APIs removed in DNN 10); verified on DNN 9.13.x and 10.2.x.</li>
+			<li>v4.0 - Upgrade to the DNN 9.2 platform.</li>
+	</ul>
 </div>

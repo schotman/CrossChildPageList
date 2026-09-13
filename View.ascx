@@ -1,2 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="View.ascx.cs" Inherits="Cross.Modules.ChildPageList.View" %>
-<asp:PlaceHolder ID="phTemplate" runat="server"></asp:PlaceHolder>
+<%@ Control language="C#" Inherits="Cross.Modules.ChildPageList.View" CodeBehind="View.ascx.cs" AutoEventWireup="true"%>
+   <asp:PlaceHolder ID="phTemplate" runat="server"></asp:PlaceHolder>
+
+

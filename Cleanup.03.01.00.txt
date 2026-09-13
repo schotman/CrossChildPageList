@@ -1,5 +1,0 @@
-﻿DesktopModules\CrossChildPageList\Settings.ascx.cs
-DesktopModules\CrossChildPageList\View.ascx.cs
-DesktopModules\CrossChildPageList\Template\default\List_Standard.ascx
-DesktopModules\CrossChildPageList\Template\default\List.ascx.cs
-DesktopModules\CrossChildPageList\Template\default\App_LocalResources\List.ascx.resx

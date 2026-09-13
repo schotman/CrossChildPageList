@@ -124,13 +124,13 @@
     <value>A free module from www.DnnModules.cn</value>
   </data>
   <data name="plIncludeSelf.Text" xml:space="preserve">
-    <value>Include current tab</value>
+    <value>Include current page</value>
   </data>
   <data name="plIncludeInvisible.Text" xml:space="preserve">
-    <value>Include invisible tab</value>
+    <value>Include invisible page</value>
   </data>
   <data name="plParentTab.Text" xml:space="preserve">
-    <value>Parent Tab</value>
+    <value>Parent Page</value>
   </data>
   <data name="plListTemplate.Help" xml:space="preserve">
     <value>Choose list template.Default template is \DesktopModules\CrossChildPageList\Template\default\List_Standard.ascx, you can costomize your own template.</value>
@@ -148,13 +148,13 @@
     <value>Columns per row</value>
   </data>
   <data name="plIncludeInvisible.Help" xml:space="preserve">
-    <value>Check this option to display tabs even they are set as invisible.</value>
+    <value>Check this option to display pages even they are set as invisible.</value>
   </data>
   <data name="plIncludeSelf.Help" xml:space="preserve">
-    <value>Check this option to display current tab if it in  sub tab list of seleted parent tab.</value>
+    <value>Check this option to display current page if it in  sub page list of seleted parent page.</value>
   </data>
   <data name="plParentTab.Help" xml:space="preserve">
-    <value>Choose parent tab which you want to display its sub tabs. </value>
+    <value>Choose parent page which you want to display its sub pages. Note, if you choose "None Specified" as parent page, module will display all pages of current site.</value>
   </data>
   <data name="liLinkTarget_Blank.Text" xml:space="preserve">
     <value>New Window</value>
@@ -169,13 +169,13 @@
     <value>Link Target</value>
   </data>
   <data name="plRecursive.Help" xml:space="preserve">
-    <value>If this option is checked,module will display all child pages from the parent including the child pages of the child pages,i.e. walk the tree from the selected parent tab.</value>
+    <value>If this option is checked,module will display all child pages from the parent including the child pages of the child pages,i.e. walk the tree from the selected parent page.</value>
   </data>
   <data name="plRecursive.Text" xml:space="preserve">
     <value>Recursive</value>
   </data>
   <data name="plDisplayIcon.Help" xml:space="preserve">
-    <value>Check to display tab icon.</value>
+    <value>Check to display page icon.</value>
   </data>
   <data name="plDisplayIcon.Text" xml:space="preserve">
     <value>Display Icon</value>
